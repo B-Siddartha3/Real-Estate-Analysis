@@ -45,7 +45,9 @@ It provides insights into **sales performance, pricing trends, and regional grow
 ---
 
 ## 📈 Dashboard Preview
-*(Insert screenshots of your Power BI dashboard here)*  
+ ![House market Overview](images/image1.png)
+ ![Sales Performance](images/image2.png)
+ ![Overview](images/image3.png)
 
 ---
 
