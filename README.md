@@ -79,9 +79,9 @@ If you have ideas for improvement, feel free to fork this repo, raise issues, or
 ---
 
 ## 📬 Contact
-👤 **Your Name**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile]  
+👤 **B.Siddartha**  
+📧 [www.siddarthasid3@gmail.com]  
+🔗 [www.linkedin.com/in/siddartha-bokka-159a65208]  
 
 ---
 ⭐ If you found this project insightful, don’t forget to **star this repo**!
